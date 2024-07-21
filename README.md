@@ -27,8 +27,10 @@ Thanks to all who take time and energy to perform Kernels with this dataset and 
 # Source
 This dataset can be used for predictive data analytics purpose., to see more please go to [https://www.kaggle.com/stanford-open-policing.](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
+
 ## DashBoard Using PowerBi
-![A](https://github.com/user-attachments/assets/75e120e6-f700-481e-b632-91981322e31b)![a0](https://github.com/user-attachments/assets/cca40a20-89cf-4d17-9cc8-5e985a644cda)
+![1714788321182](https://github.com/user-attachments/assets/bfe3e08a-a09f-4f7f-aad3-e3aff8870b08)
+![a0](https://github.com/user-attachments/assets/cca40a20-89cf-4d17-9cc8-5e985a644cda)
 ![b1](https://github.com/user-attachments/assets/c292789e-352f-46e5-8f03-01d1afff9d75)
 ![1714788320959](https://github.com/user-attachments/assets/1c45fb83-a4a2-4611-a04d-ad9110b81fc1)
 
